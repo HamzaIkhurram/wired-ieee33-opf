@@ -102,6 +102,12 @@ Note that with fixed loads and a fixed substation voltage, a radial feeder has a
 └── README.md
 ```
 
+## Questions?
+
+- **Muhammad Hamza Imtiaz**: hamza.imtiaz@ucalgary.ca
+- **Ilkay Altintas**: ialtintas@ucsd.edu
+- **Mostafa Farrokhabadi**: mostafa.farrokhabadi@ucalgary.ca
+
 ## Credits
 
 OPF model and notebook by Ala'a. Packaged as a WIRED module by Muhammad Hamza.
